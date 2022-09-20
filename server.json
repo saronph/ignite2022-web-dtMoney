@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-09-08T15:29:43.781Z"
+    },
+    {
+      "description": "Hamburguer",
+      "price": 25,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-09-14T21:20:37.257Z",
+      "id": 3
+    },
+    {
+      "description": "Bebida",
+      "price": 50,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-09-14T21:34:44.967Z",
+      "id": 4
     }
   ]
 }
